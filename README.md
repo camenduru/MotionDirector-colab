@@ -20,7 +20,6 @@ https://arxiv.org/abs/2310.08465
 https://showlab.github.io/MotionDirector/
 
 ## Output
-Results:
 
 <table class="center">
 <tr>
